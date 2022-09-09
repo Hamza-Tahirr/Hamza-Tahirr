@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 💬 Ask me about **Python, Pandas, Matplotlib, Seaborn, Plotly, Tensorflow.**
+- 💬 Ask me about **Python, Pandas, Matplotlib, Seaborn, Streamlit, Tensorflow.**
 
 - 📫 How to reach me **hamzatahiramin2@gmail.com**
 
