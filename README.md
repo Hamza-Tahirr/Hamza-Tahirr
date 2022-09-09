@@ -5,17 +5,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Data Science and Machine Learning projects**
+- 🔭 I’m currently working on **Machine/Deep Learning And OpenCV projects**
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 💬 Ask me about **Python, Pandas, Matplotlib, Seaborn, Streamlit, Tensorflow.**
+- 💬 Ask me about **Python,OpenCV, Pandas, Matplotlib, Seaborn, Streamlit, Tensorflow.**
 
 - 📫 How to reach me **hamzatahiramin2@gmail.com**
 
-- ⚡ Fun fact **I am not funny :)**
+- ⚡ Fun fact **I Play with CV :)**
 
 
 <h2 align="left">🚀 Languages and Tools:</h2>
