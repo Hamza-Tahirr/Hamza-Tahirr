@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamza Tahir</h1>
 <h3 align="center">I'm a Data Science Enthusiast.👨🏼‍💻 :mechanical_arm:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-tahirr&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-tahirr" /> </p>
 
 <img width="40%" src="GIF.gif" align="right" />
 
@@ -37,7 +36,12 @@
 
 [![Hamza's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hamza-Tahirr&theme=redical)](https://github.com/Hamza-Tahirr/github-readme-activity-graph)
 
-<br></br>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Hamza-Tahirr/count.svg" />
+</p>
+
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://twitter.com/hamziiiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamziiiee" height="30" width="40" /></a>
@@ -46,6 +50,6 @@
 <a href="https://kaggle.com/hamzatahirrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hamzatahirrr" height="30" width="40" /></a>
 <a href="https://instagram.com/hamzatahiramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzatahiramin" height="30" width="40" /></a>
 </p>
-<br></br>
+
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Buy me a coffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
