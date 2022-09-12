@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-tahirr&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-tahirr" /> </p>
 
+<img width="40%" src="GIF.gif" align="right" />
+
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **Machine/Deep Learning And OpenCV projects**
