@@ -34,7 +34,6 @@
 
 <br></br>
 
-![snake gif](https://github.com/samadpls/samadpls/blob/output/github-contribution-grid-snake.svg)
 
 [![Hamza's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hamza-Tahirr&theme=redical)](https://github.com/Hamza-Tahirr/github-readme-activity-graph)
 
