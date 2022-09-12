@@ -31,8 +31,6 @@
 <img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Tahirr&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact' width=33% />
 </p><br>
 
-<br></br>
-
 
 [![Hamza's github activity graph](https://activity-graph.herokuapp.com/graph?username=Hamza-Tahirr&theme=redical)](https://github.com/Hamza-Tahirr/github-readme-activity-graph)
 
