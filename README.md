@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **hamzatahiramin2@gmail.com**
 
-- ⚡ Fun fact **I Play with CV :)**
+- ⚡ Fun fact **Other than above I learn about different technologies for myself, Watch Cricket, Plays football and watch any genre of movies. :)**
 
 
 <h2 align="left">🚀 Languages and Tools:</h2>
