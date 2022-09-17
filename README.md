@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Machine/Deep Learning And OpenCV projects**
+- 🔭 I’m currently working on **Data Science And Machine/Deep Learning projects**
 
 - 🌱 I’m currently learning **Deep Learning**
 
