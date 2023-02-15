@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open-Source Projects**
 
-- 💬 Ask me about **Python,OpenCV, Pandas, Matplotlib, Seaborn, Streamlit, Tensorflow.**
+- 💬 Ask me about **Python, Django, OpenCV, Pandas, Matplotlib, Seaborn.**
 
 - 📫 How to reach me **hamzatahiramin2@gmail.com**
 
