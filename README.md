@@ -2,12 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer working at <b>TallyMarks Consulting</b></h3>
 
 
-
-
-<h1 align="center">Hi 👋, I'm Hamza Tahir</h1>
-<h3 align="center">I'm a Data Science Enthusiast.👨🏼‍💻 :mechanical_arm:</h3>
-
-
 <img width="40%" src="GIF.gif" align="right" />
 
 ## 🙋‍♂️ About Me
