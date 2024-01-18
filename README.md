@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Python, Django, OpenCV, Pandas, Matplotlib, Seaborn.**
 
-- 📫 How to reach me **hamzatahiramin2@gmail.com**
+- 📫 How to reach me **hamzatatwork@gmail.com**
 
 - ⚡ Fun fact : **Other than above I learn about different technologies for myself, Watch Cricket, Plays football, and I can watch any genre of movie :)**
 
