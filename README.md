@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Web Development and Chatbots**
 
-- 📫 How to reach me **hamzatatwork@gmail.com**
+- 📫 How to reach me **hamzatatwork@gmail.com** and at <a href="https://www.upwork.com/freelancers/~01c8b897882c20bc57" target="blank"><img align="center" src="https://apploye.com/blog/content/images/2023/09/alternatives-of-upwork.png" alt="https://www.upwork.com/freelancers/~01c8b897882c20bc57" height="30" width="70" /></a>
 
 - ⚡ Fun fact : **Other than above I learn about different technologies for myself, Watch Cricket, Plays football, and I can watch any genre of movie :)**
 
