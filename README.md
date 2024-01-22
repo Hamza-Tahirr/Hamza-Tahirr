@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **Open-Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hamza-Tahirr](https://github.com/Hamza-Tahirr)
+- 👨‍💻 All of my projects are available at [https://github.com/Hamza-Tahirr](https://github.com/Hamza-Tahirr?tab=repositories)
 
 - 💬 Ask me about **Web Development and Chatbots**
 
