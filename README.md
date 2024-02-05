@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Generative AI and ChatBot Development**
 
-- 🌱 I’m currently learning **DialogFlow, LLMs, Chatbot Development**
+- 🌱 I’m currently learning **DialogFlow, Langchain, LLMs, Chatbot Development**
 
 - 🤝 I’m looking for help with **Open-Source Projects**
 
