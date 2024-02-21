@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Tahir</h1>
-<h3 align="center">A passionate SAP AI Developer working at <b>TallyMarks Consulting</b></h3>
+<h3 align="center">A passionate SAP Developer working at <b>TallyMarks Consulting</b></h3>
 
 
 <img width="40%" src="GIF.gif" align="right" />
