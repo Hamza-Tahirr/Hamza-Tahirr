@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Generative AI and ChatBot Development**
+- 🔭 I’m currently working on **Generative AI and Backend Development**
 
-- 🌱 I’m currently learning **DialogFlow, Langchain, LLMs, Chatbot Development**
+- 🌱 I’m currently learning **DialogFlow, Langchain, LLMs, Backend Development**
 
 - 🤝 I’m looking for help with **Open-Source Projects**
 
