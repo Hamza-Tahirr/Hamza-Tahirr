@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Hamza Tahir</h1>
-<h3 align="center">A passionate Python Developer working at <b>TallyMarks Consulting</b></h3>
+<h3 align="center">A passionate AI Python Developer working at <b>TallyMarks Consulting</b></h3>
 
 
 <img width="40%" src="GIF.gif" align="right" />
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Generative AI and Backend Development**
+- 🔭 I’m currently working on **Generative AI and Full Stack Development**
 
-- 🌱 I’m currently learning **DialogFlow, Langchain, LLMs, Backend Development**
+- 🌱 I’m currently learning **LLMs, Backend Development**
 
 - 🤝 I’m looking for help with **Open-Source Projects**
 
 - 👨‍💻 All of my projects are available at [Hamza-Tahirr Github Repos](https://github.com/Hamza-Tahirr?tab=repositories)
 
-- 💬 Ask me about **Web Development and Chatbots**
+- 💬 Ask me about **Web Development and AI Development**
 
-- 📫 How to reach me **hamzatahir.tmc@gmail.com** and at <a href="https://www.upwork.com/freelancers/~013069a353d4aa0fa1" target="blank"><img align="center" src="https://apploye.com/blog/content/images/2023/09/alternatives-of-upwork.png" alt="https://www.upwork.com/freelancers/~01c8b897882c20bc57" height="30" width="70" /></a>
+- 📫 How to reach me **hamzatahir.tmc@outlook.com** and at <a href="https://www.upwork.com/freelancers/~013069a353d4aa0fa1" target="blank"><img align="center" src="https://apploye.com/blog/content/images/2023/09/alternatives-of-upwork.png" alt="https://www.upwork.com/freelancers/~01c8b897882c20bc57" height="30" width="70" /></a>
 
 - ⚡ Fun fact : **Other than above I learn about different technologies for myself, Watch Cricket, Plays football, and I can watch any genre of movie :)**
 
