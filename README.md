@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Generative AI and Full Stack Development**
 
-- 🌱 I’m currently learning **LLMs, Backend Development**
+- 🌱 I’m currently learning **LLMs, DevOps**
 
 - 🤝 I’m looking for help with **Open-Source Projects**
 
