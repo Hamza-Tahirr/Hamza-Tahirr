@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **Generative AI and Full Stack Development**
+- 🔭 I’m currently working on **Agentic AI and Full Stack Development**
 
 - 🌱 I’m currently learning **LLMs, DevOps**
 
