@@ -28,16 +28,8 @@
 ## 📈 GitHub Stats:
 
 <p align = "center"><br>
-<img src='https://github-readme-stats.vercel.app/api?username=Hamza-Tahirr&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false' width=32%/>
 <img  src='https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Tahirr&theme=great-gatsby&hide_border=true' width=33% /> 
-<img  src='https://github-readme-stats.vercel.app/api/top-langs/?username=Hamza-Tahirr&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact' width=33% />
 </p><br>
-
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Hamza-Tahirr/count.svg" />
-</p>
 
 
 <h2 align="left">Connect with me:</h2>
