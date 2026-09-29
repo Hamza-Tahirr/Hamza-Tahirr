@@ -1,47 +1,38 @@
-<h1 align="center">Hi 👋, I'm Hamza Tahir</h1>
-<h3 align="center">A passionate AI Python Developer working at <b>TallyMarks Consulting</b></h3>
+# Hi, I'm Hamza Tahir
 
+<img src="GIF.gif" width="35%" align="right" alt="" />
 
-<img width="40%" src="GIF.gif" align="right" />
+I work as an SAP Technical Consultant at TMC (TallyMarks Consulting) in Karachi, Pakistan. I build applications and integrations on SAP BTP with Fiori/UI5, CAP and ABAP. I also build AI tools in Python with LangChain and LangGraph.
 
-## 🙋‍♂️ About Me
+I have a BE in Electrical Engineering and ranked 3rd in my department. I taught myself AI and machine learning, and this account has both my SAP and my AI projects.
 
-- 🔭 I’m currently working on **Agentic AI and Full Stack Development**
+## Tech stack
 
-- 🌱 I’m currently learning **LLMs, DevOps**
+- **SAP:** SAP BTP, SAP Fiori / SAPUI5, ABAP, SAP CAP, SAP Cloud Integration, OData
+- **AI / ML:** Python, LangChain, LangGraph, Azure OpenAI, TensorFlow / Keras, scikit-learn, pandas
+- **Web:** JavaScript, TypeScript, Node.js, Express, Next.js, Flask, Streamlit
+- **Databases:** SQL, MySQL, SQLite
 
-- 🤝 I’m looking for help with **Open-Source Projects**
+## Featured projects
 
-- 👨‍💻 All of my projects are available at [Hamza-Tahirr Github Repos](https://github.com/Hamza-Tahirr?tab=repositories)
+- [Azure-OpenAI-Model-based-Tool-Calling-Agent-using-LangGraph](https://github.com/Hamza-Tahirr/Azure-OpenAI-Model-based-Tool-Calling-Agent-using-LangGraph): a Flask chatbot on Azure OpenAI (through LangChain) with a tool that looks up IP address details from the IPStack API.
+- [Full-AI-Semantic-Search](https://github.com/Hamza-Tahirr/Full-AI-Semantic-Search): a Next.js project for semantic search over documents with LangChain, OpenAI embeddings and Pinecone. Still in progress.
+- [SAP-CAP-APPLICATION-WITH-ODATA](https://github.com/Hamza-Tahirr/SAP-CAP-APPLICATION-WITH-ODATA): a Node.js/Express backend with an AngularJS front end. It creates, reads, updates and deletes records through an SAP Gateway OData service.
+- [fiori-application](https://github.com/Hamza-Tahirr/fiori-application): a freestyle SAPUI5 Fiori app that saves and deletes form entries through an OData V2 service.
+- [MNIST-Digit-Classification-with-Neural-Network](https://github.com/Hamza-Tahirr/MNIST-Digit-Classification-with-Neural-Network): a TensorFlow/Keras neural network that classifies handwritten MNIST digits. It includes a confusion matrix and a prediction on a custom image.
+- [Bug-Fixer-Using-Generative-AI](https://github.com/Hamza-Tahirr/Bug-Fixer-Using-Generative-AI): a Flask app that sends code and its error message to Azure OpenAI and returns an explanation and a fixed version. It tracks free uses per visitor in SQLite and takes a Stripe payment once they run out.
 
-- 💬 Ask me about **Web Development and AI Development**
+You can find all my projects under [repositories](https://github.com/Hamza-Tahirr?tab=repositories).
 
-- 📫 How to reach me **hamzatahir.tmc@outlook.com** and at <a href="https://www.upwork.com/freelancers/~013069a353d4aa0fa1" target="blank"><img align="center" src="https://apploye.com/blog/content/images/2023/09/alternatives-of-upwork.png" alt="https://www.upwork.com/freelancers/~01c8b897882c20bc57" height="30" width="70" /></a>
+## GitHub activity
 
-- ⚡ Fun fact : **Other than above I learn about different technologies for myself, Watch Cricket, Plays football, and I can watch any genre of movie :)**
-
-
-<h2 align="left">🚀 Languages and Tools:</h2>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-
-## 📈 GitHub Stats:
-
-<p align = "center"><br>
-<img  src='https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Tahirr&theme=great-gatsby&hide_border=true' width=33% /> 
-</p><br>
-
-
-<h2 align="left">Connect with me:</h2>
 <p align="left">
-<a href="https://twitter.com/hamziiiee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hamziiiee" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hamza-tahir-49618a1b2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hamza-tahir-49618a1b2/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15592409/hamza-tahir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15592409/hamza-tahir" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01c8b897882c20bc57" target="blank"><img align="center" src="https://apploye.com/blog/content/images/2023/09/alternatives-of-upwork.png" alt="https://www.upwork.com/freelancers/~01c8b897882c20bc57" height="30" width="70" /></a>
-<a href="https://kaggle.com/hamzatahirrr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hamzatahirrr" height="30" width="40" /></a>
-<a href="https://instagram.com/hamzatahiramin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hamzatahiramin" height="30" width="40" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Tahirr&theme=great-gatsby&hide_border=true" alt="GitHub streak stats" width="45%" />
 </p>
 
+## Contact
 
-<h2 align="left">Support:</h2>
-<p><a href="https://www.buymeacoffee.com/hamza.tahir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a></p><br><br>
+- Email: hamzatahir.tmc@outlook.com
+- LinkedIn: [hamza-tahir-49618a1b2](https://www.linkedin.com/in/hamza-tahir-49618a1b2/)
+- Kaggle: [hamzatahirrr](https://www.kaggle.com/hamzatahirrr)
+- Stack Overflow: [Hamza Tahir](https://stackoverflow.com/users/15592409/hamza-tahir)
