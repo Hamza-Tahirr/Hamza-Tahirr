@@ -30,7 +30,7 @@ I rebuilt my portfolio as a 3D universe you fly through, and the site itself beh
 - **Every project has its own character.** My 8 projects orbit a "Clean Core" on real Kepler orbits. Click one and its guardian flies in and tells you the story in its own voice.
 - **Every repo has a bot.** All 58 public repos here live in a 3D code nebula, each with its own procedurally generated robot.
 - **Observe, reason, act.** The site shows what it notices and what it does, hands off to the right guardian, and can plan a guided tour for you (try "I'm a recruiter for an SAP BTP role").
-- **Real math under the hood.** Kepler's equation for the orbits, golden-angle spheres for the skills, spring dynamics for the motion. Press **B** on the site to see the equations.
+- **Real math under the hood.** Kepler's equation for the orbits, golden-angle spheres for the skills, spring dynamics for the motion.
 - **Stack:** Next.js 16, React 19, React Three Fiber, GSAP, Turso (libSQL) and the Web Speech API.
 
 <table>
