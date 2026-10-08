@@ -152,15 +152,10 @@ You can find everything else under [repositories](https://github.com/Hamza-Tahir
 - **Most Innovative SAP Solution**, TMC (October 2024)
 - **Best Customized Solution**, TMC Annual Dinner
 
-## GitHub activity 📈
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hamza-Tahirr&theme=great-gatsby&hide_border=true" alt="GitHub streak stats" width="45%" />
-</p>
 
 ## Contact 📬
 
-- Email: hamzatahir.tmc@outlook.com
+- Email: hamzatahiramin2@gmail.com
 - LinkedIn: [hamza-tahir-49618a1b2](https://www.linkedin.com/in/hamza-tahir-49618a1b2/)
 - Kaggle: [hamzatahirrr](https://www.kaggle.com/hamzatahirrr)
 - Stack Overflow: [Hamza Tahir](https://stackoverflow.com/users/15592409/hamza-tahir)
