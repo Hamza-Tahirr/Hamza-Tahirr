@@ -18,38 +18,38 @@ One of my solutions, the Hascol S/4HANA Public Cloud build with its IS-OIL integ
 
 I have a BE in Electrical Engineering (3rd in my department) and taught myself AI and machine learning along the way, so this account has both sides: SAP and AI.
 
-## HAMZA.OS: my portfolio is an AI agent 🛰️
+## Hamza Tahir Portfolio 🛰️
 
-I rebuilt my portfolio as a 3D universe you fly through. The site itself behaves like an agent: it notices what you're looking at, offers help, and can take you places.
+I rebuilt my portfolio as a 3D universe you fly through, and the site itself behaves like an AI agent: it notices what you're looking at, offers help, and can take you places.
 
 <p align="center">
-  <img src="assets/hamza-os/hero.jpg" width="100%" alt="HAMZA.OS identity station with my holographic AI twin" />
+  <img src="assets/portfolio/hero.jpg" width="100%" alt="The identity station with my holographic AI twin" />
 </p>
 
 - **An AI twin you can talk to.** A hologram of me, rebuilt from one photo (478 face landmarks, 90k particles). Ask it anything in English, Roman Urdu or Urdu, like "kitni greenfield implementations ki hain?", and it answers out loud.
 - **Every project has its own character.** My 8 projects orbit a "Clean Core" on real Kepler orbits. Click one and its guardian flies in and tells you the story in its own voice.
 - **Every repo has a bot.** All 58 public repos here live in a 3D code nebula, each with its own procedurally generated robot.
-- **Observe, reason, act.** The OS shows what it notices and what it does, hands off to the right guardian, and can plan a guided tour for you (try "I'm a recruiter for an SAP BTP role").
+- **Observe, reason, act.** The site shows what it notices and what it does, hands off to the right guardian, and can plan a guided tour for you (try "I'm a recruiter for an SAP BTP role").
 - **Real math under the hood.** Kepler's equation for the orbits, golden-angle spheres for the skills, spring dynamics for the motion. Press **B** on the site to see the equations.
 - **Stack:** Next.js 16, React 19, React Three Fiber, GSAP, Turso (libSQL) and the Web Speech API.
 
 <table>
   <tr>
-    <td width="50%"><img src="assets/hamza-os/agent.jpg" alt="The AI twin panel" /><br /><sub><b>AI twin</b>: ask, navigate, hand off, plan a tour</sub></td>
-    <td width="50%"><img src="assets/hamza-os/orbit-telenor.jpg" alt="The Telenor Pakistan project world" /><br /><sub><b>Project worlds</b>: Signal presenting Telenor Pakistan</sub></td>
+    <td width="50%"><img src="assets/portfolio/agent.jpg" alt="The AI twin panel" /><br /><sub><b>AI twin</b>: ask, navigate, hand off, plan a tour</sub></td>
+    <td width="50%"><img src="assets/portfolio/orbit-telenor.jpg" alt="The Telenor Pakistan project world" /><br /><sub><b>Project worlds</b>: Signal presenting Telenor Pakistan</sub></td>
   </tr>
   <tr>
-    <td width="50%"><img src="assets/hamza-os/telemetry.jpg" alt="The telemetry station" /><br /><sub><b>Telemetry</b>: every number computed from my career data</sub></td>
-    <td width="50%"><img src="assets/hamza-os/nebula.jpg" alt="The code nebula" /><br /><sub><b>Code nebula</b>: 58 repos, one bot each</sub></td>
+    <td width="50%"><img src="assets/portfolio/telemetry.jpg" alt="The telemetry station" /><br /><sub><b>Telemetry</b>: every number computed from my career data</sub></td>
+    <td width="50%"><img src="assets/portfolio/nebula.jpg" alt="The code nebula" /><br /><sub><b>Code nebula</b>: 58 repos, one bot each</sub></td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="assets/hamza-os/guardians.jpg" width="100%" alt="The eight project guardians" /><br />
+  <img src="assets/portfolio/guardians.jpg" width="100%" alt="The eight project guardians" /><br />
   <sub>The guardians: Vaultkeeper, Hive, Torque, Flux, Unbox, Signal, Loom and Sprint</sub>
 </p>
 
-<p align="center"><b>Live link coming soon.</b></p>
+<p align="center"><b>Live: <a href="https://hamza-tahirr-portfolio.vercel.app">hamza-tahirr-portfolio.vercel.app</a></b></p>
 
 ## By the numbers 📡
 
