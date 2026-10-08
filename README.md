@@ -49,7 +49,7 @@ I rebuilt my portfolio as a 3D universe you fly through, and the site itself beh
   <sub>The guardians: Vaultkeeper, Hive, Torque, Flux, Unbox, Signal, Loom and Sprint</sub>
 </p>
 
-<p align="center"><b>Live: <a href="https://hamza-tahirr-portfolio.vercel.app">hamza-tahirr-portfolio.vercel.app</a></b></p>
+<p align="center"><b>Live: <a href="https://hamzatahirportfolio.vercel.app">hamzatahirportfolio.vercel.app</a></b></p>
 
 ## By the numbers 📡
 
