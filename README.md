@@ -16,7 +16,7 @@ I'm an SAP Consultant (AI, ABAP, Fiori and BTP) at **TMC (TallyMarks Consulting)
 
 One of my solutions, the Hascol S/4HANA Public Cloud build with its IS-OIL integration, is registered as **SAP IP**.
 
-I have a BE in Electrical Engineering (3rd in my department) and taught myself AI and machine learning along the way, so this account has both sides: SAP and AI.
+I have a BE in Electrical Engineering (with 3rd position in my department) and taught myself AI and machine learning along the way, so this account has both sides: SAP and AI.
 
 ## Hamza Tahir Portfolio 🛰️
 
