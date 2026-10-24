@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hamza-tahir-49618a1b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Hamza_Tahir-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hamzatahir.tmc@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-hamzatahir.tmc%40outlook.com-1B90FF?style=flat-square&logo=maildotru&logoColor=white" /></a>
+  <a href="mailto:hamzatahiramin1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hamzatahiramin1%40gmail.com-1B90FF?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://www.kaggle.com/hamzatahirrr"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-hamzatahirrr-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/15592409/hamza-tahir"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack_Overflow-Hamza_Tahir-F58025?style=flat-square&logo=stackoverflow&logoColor=white" /></a>
   <img alt="Karachi, Pakistan" src="https://img.shields.io/badge/Based_in-Karachi,_Pakistan-3CF0FF?style=flat-square&labelColor=04050A" />
@@ -26,12 +26,15 @@ I rebuilt my portfolio as a 3D universe you fly through, and the site itself beh
   <img src="assets/portfolio/hero.jpg" width="100%" alt="The identity station with my holographic AI twin" />
 </p>
 
-- **An AI twin you can talk to.** A hologram of me, rebuilt from one photo (478 face landmarks, 90k particles). Ask it anything in English, Roman Urdu or Urdu, like "kitni greenfield implementations ki hain?", and it answers out loud.
+- **An AI twin you can talk to.** A hologram of me, rebuilt from one photo (478 face landmarks, 90k particles). Ask it anything in English, Roman Urdu or Urdu, typos and chat-speak included, like "kitni greenfield implementations ki hain?", and it answers out loud. Its Urdu answers have a native Urdu voice.
 - **Every project has its own character.** My 8 projects orbit a "Clean Core" on real Kepler orbits. Click one and its guardian flies in and tells you the story in its own voice.
 - **Every repo has a bot.** All 58 public repos here live in a 3D code nebula, each with its own procedurally generated robot.
 - **Observe, reason, act.** The site shows what it notices and what it does, hands off to the right guardian, and can plan a guided tour for you (try "I'm a recruiter for an SAP BTP role").
+- **A black hole you can fall into.** Click it and the page drops into the TMC office. There, my reporting manager, Saroosh Saeed, gives his feedback and you answer as me.
+- **The award, relived.** Click the TMC Excellence Award to watch our CEO, Abdul Haseeb, present it on the Annual Event '26 stage, then see the real photo. Both scenes are voiced with ElevenLabs, and the faces move with the words: lip-sync and head motion on the original photos.
+- **A business page.** [/multiverse](https://hamzatahirportfolio.vercel.app/multiverse) shows 27 kinds of websites and automations I build. The first demo is free.
 - **Real math under the hood.** Kepler's equation for the orbits, golden-angle spheres for the skills, spring dynamics for the motion.
-- **Stack:** Next.js 16, React 19, React Three Fiber, GSAP, Turso (libSQL) and the Web Speech API.
+- **Stack:** Next.js 16, React 19, React Three Fiber, GSAP and Turso (libSQL). Voices are pre-rendered with Kokoro-82M (plus a native Urdu voice) and ElevenLabs.
 
 <table>
   <tr>
@@ -49,7 +52,7 @@ I rebuilt my portfolio as a 3D universe you fly through, and the site itself beh
   <sub>The guardians: Vaultkeeper, Hive, Torque, Flux, Unbox, Signal, Loom and Sprint</sub>
 </p>
 
-<p align="center"><b>Live: <a href="https://hamzatahirportfolio.vercel.app">hamzatahirportfolio.vercel.app</a></b></p>
+<p align="center"><b>Live: <a href="https://hamzatahirportfolio.vercel.app">hamzatahirportfolio.vercel.app</a></b> · Business page: <a href="https://hamzatahirportfolio.vercel.app/multiverse">/multiverse</a></p>
 
 ## By the numbers 📡
 
@@ -152,10 +155,10 @@ You can find everything else under [repositories](https://github.com/Hamza-Tahir
 - **Most Innovative SAP Solution**, TMC (October 2024)
 - **Best Customized Solution**, TMC Annual Dinner
 
-
 ## Contact 📬
 
-- Email: hamzatahiramin2@gmail.com
+- Email: [hamzatahiramin1@gmail.com](mailto:hamzatahiramin1@gmail.com)
+- Portfolio: [hamzatahirportfolio.vercel.app](https://hamzatahirportfolio.vercel.app) (free demo first on the [business page](https://hamzatahirportfolio.vercel.app/multiverse))
 - LinkedIn: [hamza-tahir-49618a1b2](https://www.linkedin.com/in/hamza-tahir-49618a1b2/)
 - Kaggle: [hamzatahirrr](https://www.kaggle.com/hamzatahirrr)
 - Stack Overflow: [Hamza Tahir](https://stackoverflow.com/users/15592409/hamza-tahir)
