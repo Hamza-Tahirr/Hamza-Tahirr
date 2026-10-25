@@ -30,8 +30,8 @@ I rebuilt my portfolio as a 3D universe you fly through, and the site itself beh
 - **Every project has its own character.** My 8 projects orbit a "Clean Core" on real Kepler orbits. Click one and its guardian flies in and tells you the story in its own voice.
 - **Every repo has a bot.** All 58 public repos here live in a 3D code nebula, each with its own procedurally generated robot.
 - **Observe, reason, act.** The site shows what it notices and what it does, hands off to the right guardian, and can plan a guided tour for you (try "I'm a recruiter for an SAP BTP role").
-- **A black hole you can fall into.** Click it and the page drops into the TMC office. There, my reporting manager, Saroosh Saeed, gives his feedback and you answer as me.
-- **The award, relived.** Click the TMC Excellence Award to watch our CEO, Abdul Haseeb, present it on the Annual Event '26 stage, then see the real photo. Both scenes are voiced with ElevenLabs, and the faces move with the words: lip-sync and head motion on the original photos.
+- **A black hole you can fall into.** Click it and the page drops into the TMC office for a short scene, where you get to answer as me.
+- **The award night, relived.** Click the TMC Excellence Award to replay the moment on the Annual Event '26 stage, filmed as if from the hall, with the room's sound and applause. Both scenes are voiced with ElevenLabs, and the faces move with the words: lip-sync and head motion on the original photos.
 - **A business page.** [/multiverse](https://hamzatahirportfolio.vercel.app/multiverse) shows 27 kinds of websites and automations I build. The first demo is free.
 - **Real math under the hood.** Kepler's equation for the orbits, golden-angle spheres for the skills, spring dynamics for the motion.
 - **Stack:** Next.js 16, React 19, React Three Fiber, GSAP and Turso (libSQL). Voices are pre-rendered with Kokoro-82M (plus a native Urdu voice) and ElevenLabs.
