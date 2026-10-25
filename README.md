@@ -23,10 +23,10 @@ I have a BE in Electrical Engineering (with 3rd position in my department) and t
 I rebuilt my portfolio as a 3D universe you fly through, and the site itself behaves like an AI agent: it notices what you're looking at, offers help, and can take you places.
 
 <p align="center">
-  <img src="assets/portfolio/hero.jpg" width="100%" alt="The identity station with my holographic AI twin" />
+  <img src="assets/portfolio/hero.jpg" width="100%" alt="The identity station: my AI twin as a hologram made from my photo" />
 </p>
 
-- **An AI twin you can talk to.** A hologram of me, rebuilt from one photo (478 face landmarks, 90k particles). Ask it anything in English, Roman Urdu or Urdu, typos and chat-speak included, like "kitni greenfield implementations ki hain?", and it answers out loud. Its Urdu answers have a native Urdu voice.
+- **An AI twin you can talk to.** A hologram made from my own photo. It turns toward you, blinks, breathes and moves its lips as it answers. Ask it anything in English, Roman Urdu or Urdu, typos and chat-speak included, like "kitni greenfield implementations ki hain?", and it answers out loud. Its Urdu answers have a native Urdu voice.
 - **Every project has its own character.** My 8 projects orbit a "Clean Core" on real Kepler orbits. Click one and its guardian flies in and tells you the story in its own voice.
 - **Every repo has a bot.** All 58 public repos here live in a 3D code nebula, each with its own procedurally generated robot.
 - **Observe, reason, act.** The site shows what it notices and what it does, hands off to the right guardian, and can plan a guided tour for you (try "I'm a recruiter for an SAP BTP role").
@@ -38,14 +38,23 @@ I rebuilt my portfolio as a 3D universe you fly through, and the site itself beh
 
 <table>
   <tr>
+    <td width="50%"><img src="assets/portfolio/boot.jpg" alt="The first page: my hologram over a teal nebula while the universe loads" /><br /><sub><b>First page</b>: a slow flight through a teal nebula while the universe loads</sub></td>
     <td width="50%"><img src="assets/portfolio/agent.jpg" alt="The AI twin panel" /><br /><sub><b>AI twin</b>: ask, navigate, hand off, plan a tour</sub></td>
-    <td width="50%"><img src="assets/portfolio/orbit-telenor.jpg" alt="The Telenor Pakistan project world" /><br /><sub><b>Project worlds</b>: Signal presenting Telenor Pakistan</sub></td>
   </tr>
   <tr>
+    <td width="50%"><img src="assets/portfolio/orbit-telenor.jpg" alt="The Telenor Pakistan project world" /><br /><sub><b>Project worlds</b>: Signal presenting Telenor Pakistan</sub></td>
     <td width="50%"><img src="assets/portfolio/telemetry.jpg" alt="The telemetry station" /><br /><sub><b>Telemetry</b>: every number computed from my career data</sub></td>
+  </tr>
+  <tr>
     <td width="50%"><img src="assets/portfolio/nebula.jpg" alt="The code nebula" /><br /><sub><b>Code nebula</b>: 58 repos, one bot each</sub></td>
+    <td width="50%"><img src="assets/portfolio/signals.jpg" alt="The hall of signals" /><br /><sub><b>Hall of signals</b>: honors, the SAP IP and 17+ certifications</sub></td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="assets/portfolio/multiverse.jpg" width="100%" alt="The business page: free demo first" /><br />
+  <sub><b>Business page</b>: 27 kinds of websites and automations I build, free demo first</sub>
+</p>
 
 <p align="center">
   <img src="assets/portfolio/guardians.jpg" width="100%" alt="The eight project guardians" /><br />
